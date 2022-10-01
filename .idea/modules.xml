@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/superpuper.iml" filepath="$PROJECT_DIR$/.idea/superpuper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/superpuper.iml" filepath="$PROJECT_DIR$/superpuper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/superpuper_android.iml" filepath="$PROJECT_DIR$/android/superpuper_android.iml" />
     </modules>
   </component>
 </project>
