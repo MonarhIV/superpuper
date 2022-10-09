@@ -2,7 +2,10 @@ import 'package:flutter/material.dart';
 
 
 const
-MainColor = 0xFFfc033d;
+MainColor = 0xFFf72323,
+MainTextColor = 0xFF000000,
+SideTextColor = 0xFFbfbfbf,
+BackgroundColor = 0xFFededed;
 
 // Актуальный месяц
 final
@@ -23,4 +26,15 @@ TakeNowDate (month) {
     12 : 'December'
   };
   return listOfint[month].toString();
+}
+
+TakeCloserEvent () {
+  // Сделать бд
+  var EventDate = DateTime.parse('2023-01-24');
+  var EventName = 'Egor\'s birthday';
+  var CloserEvent = [
+    EventDate.difference(NowDate).inDays.toString(),
+    EventName.toString()
+  ];
+  return CloserEvent;
 }
