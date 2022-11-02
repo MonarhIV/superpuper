@@ -1,0 +1,149 @@
+{
+    "Question": {
+        "it's black?": {
+            "answer": {
+                "don't know": 1,
+                "no": 1,
+                "yes": 1
+            },
+            "fame": 3,
+            "number": "1"
+        },
+        "it's famous?": {
+            "answer": {
+                "don't know": 1,
+                "no": 1,
+                "yes": 1
+            },
+            "fame": 3,
+            "number": "2"
+        },
+        "it's pone?": {
+            "answer": {
+                "don't know": 1,
+                "no": 1,
+                "yes": 1
+            },
+            "fame": 3,
+            "number": "3"
+        },
+        "it's red?": {
+            "answer": {
+                "don't know": 1,
+                "no": 1,
+                "yes": 1
+            },
+            "fame": 3,
+            "number": "4"
+        }
+    },
+    "gifts": {
+        "black_famous": {
+            "1": {
+                "answer": {
+                    "don't know": 3,
+                    "no": 1,
+                    "yes": 5
+                },
+                "fame": 9
+            },
+            "2": {
+                "answer": {
+                    "don't know": 1,
+                    "no": 1,
+                    "yes": 5
+                },
+                "fame": 7
+            },
+            "3": {
+                "answer": {
+                    "don't know": 1,
+                    "no": 6,
+                    "yes": 1
+                },
+                "fame": 8
+            },
+            "4": {
+                "answer": {
+                    "don't know": 1,
+                    "no": 4,
+                    "yes": 1
+                },
+                "fame": 6
+            },
+            "fame": 1
+        },
+        "iphone": {
+            "1": {
+                "answer": {
+                    "don't know": 1,
+                    "no": 4,
+                    "yes": 3
+                },
+                "fame": 8
+            },
+            "2": {
+                "answer": {
+                    "don't know": 1,
+                    "no": 4,
+                    "yes": 5
+                },
+                "fame": 10
+            },
+            "3": {
+                "answer": {
+                    "don't know": 1,
+                    "no": 1,
+                    "yes": 1
+                },
+                "fame": 3
+            },
+            "4": {
+                "answer": {
+                    "don't know": 1,
+                    "no": 1,
+                    "yes": 1
+                },
+                "fame": 3
+            },
+            "fame": 1
+        },
+        "red_zalupa": {
+            "1": {
+                "answer": {
+                    "don't know": 1,
+                    "no": 1,
+                    "yes": 1
+                },
+                "fame": 3
+            },
+            "2": {
+                "answer": {
+                    "don't know": 1,
+                    "no": 1,
+                    "yes": 1
+                },
+                "fame": 3
+            },
+            "3": {
+                "answer": {
+                    "don't know": 1,
+                    "no": 1,
+                    "yes": 1
+                },
+                "fame": 3
+            },
+            "4": {
+                "answer": {
+                    "don't know": 1,
+                    "no": 1,
+                    "yes": 1
+                },
+                "fame": 3
+            },
+            "fame": 1
+        }
+    },
+    "number_gifts": 3,
+    "succesful_gifts": 3
+}
